@@ -1,1 +1,1 @@
-<div>this is the remote repo</div>
+<div>This is the remote repo</div>
